@@ -1,1 +1,2 @@
-# Facial-Emotion-Recognition
+# Facial-Emotiion-Recognition
+FER project
